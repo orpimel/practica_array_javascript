@@ -1,4 +1,3 @@
-<!-- PARA MAS INFORMACION CONSULTAR http://josehernandez.xyz/2010/10/02/uso-json-javascript.html -->
 
 <!DOCTYPE html>
 
